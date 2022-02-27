@@ -1,0 +1,179 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certaine propositions, whereby the distressed Protestants of Ireland, who have lost their goods, and personall estates there, by means of the present rebellion, may be relieved, if His Maiesty and both Houses of Parliament shall so think fit. And, those that shall be imployed as officers, or common souldiers in this present war, after the war shall be ended, may have lands and tenements alotted unto them there also, for their future settlements: whereby His Majesties revenue also in that realm will be much advanced, and the said kingdom, the better and more speedier peopled, secured, and civillized.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78488</idno>
+            <idno type="STC">Wing C1734</idno>
+            <idno type="STC">Thomason E143_16</idno>
+            <idno type="STC">ESTC R1110</idno>
+            <idno type="EEBO-CITATION">99858934</idno>
+            <idno type="PROQUEST">99858934</idno>
+            <idno type="VID">156607</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78488)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156607)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 25:E143[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certaine propositions, whereby the distressed Protestants of Ireland, who have lost their goods, and personall estates there, by means of the present rebellion, may be relieved, if His Maiesty and both Houses of Parliament shall so think fit. And, those that shall be imployed as officers, or common souldiers in this present war, after the war shall be ended, may have lands and tenements alotted unto them there also, for their future settlements: whereby His Majesties revenue also in that realm will be much advanced, and the said kingdom, the better and more speedier peopled, secured, and civillized.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Ioseph Hunscott,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>April 19. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Protestants --  Ireland --  Early works to 1800.</term>
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156607:1" rendition="simple:additions"/>
+            <p>Certaine Propoſitions, Whereby The diſtreſſed PROTESTANTS OF IRELAND, Who have loſt their goods, and perſo<g ref="char:EOLhyphen"/>nall Eſtates there, by means of the preſent REBELLION, May be relieved, if His MAIESTY and both Houſes of Parliament ſhall ſo think fit.</p>
+            <p>AND, Thoſe that ſhall be imployed as Officers, or common Souldiers in this preſent War, after the War ſhall be ended, may have Lands and Tenements alotted unto them there alſo, for their future ſettlements: Whereby His Majeſties Revenue alſo in that Realm will be much advanced, and the ſaid Kingdom, the better and more ſpeedier peopled, ſecured, and civillized.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Ioſeph Hunſcott. April</hi> 19. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156607:2"/>
+            <pb n="3" facs="tcp:156607:2"/>
+            <head>Certain Propoſitions, whereby the di<g ref="char:EOLhyphen"/>ſtreſſed Proteſtants of <hi>Ireland,</hi> who have loſt their goods, and perſonall eſtates there, by means of the preſent Rebell<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on, may be relieved.</head>
+            <p n="1">1. THat ſuch diſtreſſed Proteſtants, their loſſes may be firſt Examined by Commiſſion, and aſcertained and returned to the Parliament.</p>
+            <p n="2">2. That every one, who upon ſuch Certificate, ſhall ap<g ref="char:EOLhyphen"/>pear to have loſt, in Gold, Money, Plate, Jewells, Houſhold<g ref="char:EOLhyphen"/>ſtuff, Rents, Debts, Cattle, Corn, Hay, and other like Goods, and perſonall Eſtate, to the value of 1000 <hi>l.</hi> The perſon and perſons which have thus ſuffered, paying 200 <hi>l</hi> in money more, towards the maintenance of this preſent Warre, may have a proportion of Lands to be allotted unto him out of the Rebells Lands in <hi>Leinſter,</hi> the firſt Propoſitions of the Undertakers being firſt ſatisfied 2000 Acres, paying to His Majeſty, 6<hi rend="sup">d</hi> 
+               <hi>per</hi> Acre yeerly Rent, and to hold as the ſaid Un<g ref="char:EOLhyphen"/>dertakers ſhall hold, their Lands in free and common Soc<g ref="char:EOLhyphen"/>cage, as of His Majeſties Caſtle of <hi>Dublin</hi> and this to be re<g ref="char:EOLhyphen"/>gulated for the manner of the proceedings, in all things, as in thoſe Acts of Parliament already paſſed for thoſe Underta<g ref="char:EOLhyphen"/>kers, ſaving in the matter of time, for proof of their loſſes and payment of their moneys, to be ſet down by the Parliament.</p>
+            <p n="3">3. That he that hath been ſuch a loſer, and ſhall pay 50 <hi>l</hi> may have 2000 Acres in <hi>Munſter,</hi> at <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Acre Rent.</p>
+            <p n="4">4. And he that hath been ſuch a loſer, and ſhall pay 100 <hi>l.</hi> may have 2000 Acres in <hi>Connaght,</hi> at <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Acre Rent.</p>
+            <p n="5">5. And he that hath been ſuch a loſer, and ſhall pay 100 Marks, may have 2000 Acres in <hi>
+                  <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi>
+            </p>
+            <pb n="4" facs="tcp:156607:3"/>
+            <p>And the ſame proportion of money to be paid, and Rents to be re<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erved in all caſes, where the ſaid diſtreſſed Prote<g ref="char:EOLhyphen"/>ſtants ſhall have their loſſes, to be above or under 1000<hi>l.</hi>
+            </p>
+            <p>And he that hath loſt 1000 <hi>l.</hi> and upwards, to have a Mannor, and the ſame priviledges and proceedings to be therein alſo, as for the Under-writers in the firſt Propoſiti<g ref="char:EOLhyphen"/>ons.</p>
+            <p>That every Officer and common ſouldier, employed, and which ſhall be employed in this Warre in <hi>Ireland,</hi> againſt the Rebells, and is deſirous to have any Lands to be aſſigned unto him for his pay or entertainment, or any part of it, may have for every 20 <hi>s.</hi> he ſhall give an Acquittance to the Trea<g ref="char:EOLhyphen"/>ſurer at War there, for the time being, of ſuch moneyes ſo due, or which ſhall grow due unto him, and ſhall receive an Atteſtation thereof under the hand of the ſaid Treaſurer, an Acre of Land in <hi>Leinſter,</hi> paying 8<hi rend="sup">d</hi> 
+               <hi>per</hi> Acre yeerly Rent un<g ref="char:EOLhyphen"/>to His Majeſtie.</p>
+            <p>And for every 18<hi>s.</hi> an Acre of Land in <hi>Munſter,</hi> at 6<hi rend="sup">d</hi> 
+               <hi>per annum</hi> Rent:</p>
+            <p>And for every 16 <hi>s.</hi> an Acre of Land in <hi>Connaght,</hi> at 4<hi rend="sup">d</hi> 
+               <hi>per</hi> Acre Rent:</p>
+            <p>And for every 15 <hi>s.</hi> an Acre of Land in <hi>Vlſter,</hi> at 3<hi rend="sup">d</hi> 
+               <hi>per</hi> Acre Rent;</p>
+            <p>To be holden as the other Lands: And he that ſhall have 1000 Acres or more thus to be aſſigned unto him, in any of the Provinces aforeſaid, may have a Mannor to be regulated for the proceedings therein, in all things as the former Un<g ref="char:EOLhyphen"/>der-writers of the propoſitions formerly ſetled by Act of Parliament, ſhall have theirs: And after theſe Under-wri<g ref="char:EOLhyphen"/>ters ſhall be firſt ſatisfied, as the diſtreſſed Proteſtants ſhall have theirs. And the ſaid Officers or Souldiers to elect and chooſe in which of the ſaid four Provinces he will have his Lands to lie, and to declare himſelf therein to the ſaid Trea<g ref="char:EOLhyphen"/>ſurer at the time of his receiving the ſaid Arteſtation, and to
+<pb n="5" facs="tcp:156607:3"/>have his ſaid election and choice to be intimated therein, together with the ſum and ſums of money ſo diſcharged to the Treaſurer at Wars aforeſaid, and others that ſhall alſo be appointed to pay the Officers may be appointed as the Treaſurer in the ſeverall Provinces, to receive Releaſes, and to give Atteſtations.</p>
+            <p>That this be declared, That it ſhall not hinder any of the ſaid Officers or Souldiers in the Army for ſuch rewards, to be given them out of the reſidue of the Rebels lands; for their good ſervice in this Expedition of War to be done, as they ſhall merit, but be interpreted as an act of their more forwardneſſe, and good affections to the better proceeding of the work in hand.</p>
+            <p>That there is land enough forfeited, aſwell to ſatisfie the firſt Propoſitions, as the Underwriters; and theſe Propo<g ref="char:EOLhyphen"/>ſitions now moved, and reſtitution to be made to the Pro<g ref="char:EOLhyphen"/>teſtants of <hi>Ireland</hi> of all their lands beſides, may readily be conceived, when as the whole Kingdom is computed to conſiſt of Twenty Millions of Acres Engliſh meaſure, at the leaſt, and but Two Millions and an half thereof are de<g ref="char:EOLhyphen"/>ſigned for the Undertakers. The Papiſts of <hi>Ireland,</hi> as is conceived, have much above half of the lands of that Kingdom, and all, or the greateſt part of them are well known to be in action, or Confederates together in the plot; ſo that their eſtates are forfeited, out of which, there is ſufficient to ſatisfie all theſe, and the former Propoſi<g ref="char:EOLhyphen"/>tions, and to reward Servitours, and otherwiſe to diſpoſe of as ſhall be thought fit.</p>
+            <div type="part">
+               <head>Reaſons to move this Propoſition, are;</head>
+               <p n="1">1. It is but Charity, and not againſt common Equity, that theſe diſtreſſed Proteſtants ſhould receive ſome ſatisfaction
+<pb n="6" facs="tcp:156607:4"/>of their loſſes, out of thoſe Rebels eſtates, who by their robbery, and ſtealth of theirs, have thus lived upon their goods and cattels, the rather, when thus they ſhall in ſome meaſure contribute to the reducing of thoſe Rebels, whoſe M<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>te conſidered, will be much more then the abundance put into this Treaſury by the Adventurers.</p>
+               <p n="2">2. They ſhall not much come ſhort herein of the Ad<g ref="char:EOLhyphen"/>venturers themſelves, (all things conſidered;) For if the monies to be put in, over and above their loſſes, and the further increaſe of rents yearly to be paid unto the Crown, more then the Adventurers, be thought upon, it will <hi>(tant amount)</hi> or very near, to the monies by them to be disburſ<g ref="char:EOLhyphen"/>ed, for their lands they are to have in the preſent Under<g ref="char:EOLhyphen"/>taking, beſides the priority of the Underwriters ſatisfaction herein, and their expectation onely, after they ſhall be ſo firſt ſatisfied.</p>
+               <p n="3">3. The diſtreſſed Proteſtants, all of them are ſuch, as from their infancies have been bred, and lived Proteſtants; well affected in Religion, and very many of them having ſerved in places and Offices of eminencie and truſt in that Kingdom, and done good ſervice in the Common-wealth there, and may be again of good uſe in the preſent Expedi<g ref="char:EOLhyphen"/>tion of War in hand, againſt thoſe Rebels, and ſervice of the Common-wealth, as better knowing the ſtate of that Kingdom, the manners, and conditions of thoſe people, their alliances, dependances, places of reſidence, ſtrengths, ſubterfuges, and places of retirement, and beſt how to finde out, and diſcover their proceedings, practiſes, and confe<g ref="char:EOLhyphen"/>deracies, and otherwiſe ready to advance and forward whatſoever undertakings ſhall be deſigned by the Parlia<g ref="char:EOLhyphen"/>ment, for the good and welfare of that Republique.</p>
+               <p n="4">4. It will be a great furtherance to the Deſign in hand, to bring this War to a more ſpeedy Concluſion, and a
+<pb n="7" facs="tcp:156607:4"/>thing very conſiderable, to make theſe Nations the more happy: when thus ſome thouſands of Acres more of thoſe Rebels lands ſhal be thus peopled; for the better civillizing of the Kingdom, and ſetting a plantation of Religion there, moſt principally intended.</p>
+               <p n="5">5. It will give incouragement, not onely to the ſaid di<g ref="char:EOLhyphen"/>ſtreſſed Proteſtants, with all poſſible diligence, and indea<g ref="char:EOLhyphen"/>vour to further the ſaid intended Plantation and Reforma<g ref="char:EOLhyphen"/>tion there; but will animate and incourage their friends and Allyes here, upon whoſe Bounty and Charity they are now relieved, the more cheerfully to contribute to their aſsi<g ref="char:EOLhyphen"/>ſtance herein, rather then to maintain them ſtill, as a conti<g ref="char:EOLhyphen"/>nued burthen, and draw many of them to joyn with them in the work, rather then to have it left undone, by which means, this whole Realm upon the matter, will be ingaged in the buſineſſe.</p>
+               <p n="6">6. Thus the Kingdom will be alſo ſetled with Free-hol<g ref="char:EOLhyphen"/>ders, inabled to ſerve in all Juries for trials of matters in the Common wealth; which being heretofore performed performed by thoſe who are now in Rebellion, and were and are Papiſts, or Popiſhly affected, brought ſuch a pre<g ref="char:EOLhyphen"/>judice to the Government of that Common wealth, that nothing of that nature could there proceed with that even<g ref="char:EOLhyphen"/>neſſe and regularity, as the Laws of the land required, eſpecially in matters that concerned the better welfare and propagation of Religion, and ſuppreſsing of Po<g ref="char:EOLhyphen"/>pery there.</p>
+               <p n="7">7. It may be no little incouragement to others alſo, with more cheerfulneſſe to underwrite in the firſt Propo<g ref="char:EOLhyphen"/>ſitions, when thus they ſhall perceive, thoſe being thus ne<g ref="char:EOLhyphen"/>ceſsitate, forward to adventure all they have, and more, to bring this great Deſign about.</p>
+               <p n="8">8. It will leave all pretenders without excuſe, that after
+<pb n="8" facs="tcp:156607:5"/>the time limited, for ſuch proofs of their loſſes to be made, ſhall afterwards preſſe upon the charity of the Parliament, for any relief of their ſufferings, and will take off many thouſands more, which now under a colour of ſuch da<g ref="char:EOLhyphen"/>mages, by them ſuppoſed, ſuſtained, do with much carneſt<g ref="char:EOLhyphen"/>neſſe folicite for a conſideration of their diſtreſſes, out of the Contribution-money, who peradventure will ſo be found to have loſt nothing at all.</p>
+               <p n="9">9. It will draw down from Heaven a better bleſsing upon the proceedings, as ſo many prayers will be more daily added, for its proſperous and good ſucceſſe.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
